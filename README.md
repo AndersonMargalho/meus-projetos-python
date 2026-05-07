@@ -1,51 +1,58 @@
-# 🐍 Initial Python Projects | Projetos Iniciais em Python
-
-*(🇺🇸 English version below | 🇧🇷 Versão em português abaixo)*
+# 🐍 Python Journey: From Basics to AI & Security
+### (us English version below | BR Versão em português abaixo)
 
 ---
 
 ## 🇺🇸 English Version
 
-Welcome to my first repository! 
-This space was created to document my learning journey in Python. Here, I developed five practical projects focusing on programming logic, clean code, and language fundamentals.
+Welcome to my repository! This space documents my evolution in Python, moving from fundamental logic to advanced applications in Information Security and Artificial Intelligence.
 
-### 🛠️ Technologies and Concepts Applied
-* Control flow structures (`if`, `elif`, `else`)
-* Loops (`while`, `for`)
-* String and List manipulation
-* Modular Functions (`def`)
-* Exception and Error handling (`try`, `except`)
-* Native libraries importation (`random`, `string`)
+### 🛠️ Technologies & Concepts Applied
+- **Foundamentals:** Control flow (`if/else`), Loops (`while/for`), Modular Functions (`def`).
+- **Security & Networking:** `hashlib` (Data Integrity), `socket` (Network Scanning).
+- **Artificial Intelligence:** `google-genai` SDK, LLM integration, Prompt Engineering.
+- **Environment:** Development and testing in experimental **Python 3.14**.
 
-### 📂 Project Files
-1. **📝 Text Analyzer (`analisador_texto.py`):** Analyzes input text (character/word counts, longest word, vowels/consonants).
-2. **🧮 Simple Calculator (`calculadora.py`):** Terminal calculator with basic math operations and error handling (e.g., division by zero).
-3. **🌡️ Temperature Converter (`conversor_temperatura.py`):** Continuous loop program to convert Celsius, Fahrenheit, and Kelvin.
-4. **🔐 Password Generator (`gerador_senhas.py`):** Generates random secure passwords based on user-defined length and character types.
-5. **🎲 Guessing Game (`jogo_adivinhacao.py`):** Interactive game to guess a random number between 1 and 100 with a scoring system.
+### 📁 Project Files
+
+#### 🚀 Initial Projects (Foundations)
+1. 📝 **Text Analyzer (`analisador_texto.py`):** Input analysis and string manipulation.
+2. 🔢 **Simple Calculator (`calculadora.py`):** Math operations with error handling.
+3. 🌡️ **Temperature Converter (`conversor_temperatura.py`):** Loop-based unit conversion.
+4. 🔐 **Password Generator (`gerador_senhas.py`):** Secure random string generation.
+5. 🎲 **Guessing Game (`jogo_adivinhacao.py`):** Interactive logic with scoring system.
+
+#### 🛡️ Advanced Projects (Security & AI)
+6. 🔒 **Hash Checker (`verificador_hash.py`):** Data integrity tool using SHA-256 to detect file tampering.
+7. 🌐 **Port Scanner (`scanner_portas.py`):** Network tool to identify open services and security vulnerabilities.
+8. 🤖 **AI Sentiment Analyzer (`analisador_ia.py`):** Real-world integration with **Google Gemini API** for Natural Language Processing.
 
 ---
 
 ## 🇧🇷 Versão em Português
 
-Bem-vindo ao meu primeiro repositório! 
-Este espaço foi criado para documentar a minha jornada de aprendizado na linguagem Python. Aqui, desenvolvi cinco projetos práticos com foco em lógica de programação, clean code e fundamentos da linguagem.
+Bem-vindo ao meu repositório! Este espaço documenta minha evolução em Python, partindo da lógica fundamental até aplicações avançadas em Segurança da Informação e Inteligência Artificial.
 
 ### 🛠️ Tecnologias e Conceitos Aplicados
-* Estruturas de controle de fluxo (`if`, `elif`, `else`)
-* Laços de repetição (`while`, `for`)
-* Manipulação de Strings e Listas
-* Criação de Funções Modulares (`def`)
-* Tratamento de Exceções e Erros (`try`, `except`)
-* Importação e uso de bibliotecas nativas (`random`, `string`)
+- **Fundamentos:** Controle de fluxo, Laços de repetição, Funções Modulares.
+- **Segurança e Redes:** `hashlib` (Integridade de Dados), `socket` (Varredura de Rede).
+- **Inteligência Artificial:** SDK `google-genai`, integração com LLMs, Engenharia de Prompt.
+- **Ambiente:** Desenvolvimento e testes em ambiente experimental **Python 3.14**.
 
-### 📂 Arquivos do Projeto
-1. **📝 Analisador de Texto (`analisador_texto.py`):** Analisa um texto recebido (contagem de caracteres/palavras, maior palavra, vogais/consoantes).
-2. **🧮 Calculadora (`calculadora.py`):** Calculadora de terminal com operações matemáticas básicas e tratamento de erros (ex: divisão por zero).
-3. **🌡️ Conversor de Temperatura (`conversor_temperatura.py`):** Programa em loop contínuo para converter Celsius, Fahrenheit e Kelvin.
-4. **🔐 Gerador de Senhas (`gerador_senhas.py`):** Gera senhas aleatórias e seguras com base no tamanho e nos tipos de caracteres escolhidos pelo usuário.
-5. **🎲 Jogo de Adivinhação (`jogo_adivinhacao.py`):** Jogo interativo para adivinhar um número aleatório de 1 a 100 com sistema de pontuação.
+### 📁 Arquivos do Projeto
+
+#### 🚀 Projetos Iniciais (Base)
+1. 📝 **Analisador de Texto (`analisador_texto.py`):** Análise de strings e contagem de caracteres.
+2. 🔢 **Calculadora (`calculadora.py`):** Operações matemáticas com tratamento de erros.
+3. 🌡️ **Conversor de Temperatura (`conversor_temperatura.py`):** Conversão de unidades em loop.
+4. 🔐 **Gerador de Senhas (`gerador_senhas.py`):** Geração de strings aleatórias seguras.
+5. 🎲 **Jogo de Adivinhação (`jogo_adivinhacao.py`):** Lógica interativa com sistema de pontuação.
+
+#### 🛡️ Projetos Avançados (Segurança e IA)
+6. 🔒 **Verificador de Hash (`verificador_hash.py`):** Garantia de integridade de dados usando SHA-256.
+7. 🌐 **Scanner de Portas (`scanner_portas.py`):** Ferramenta de rede para identificar serviços abertos e vulnerabilidades.
+8. 🤖 **Analisador de Sentimento com IA (`analisador_ia.py`):** Integração real com a **API do Google Gemini** para processamento de linguagem natural.
 
 ---
 **Author / Autor:** Anderson Margalho  
-*Repository created for study purposes and portfolio building. | Repositório criado para fins de estudo e construção de portfólio.*
+*Repository created for study purposes and professional portfolio building.*
